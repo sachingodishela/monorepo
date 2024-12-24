@@ -1,0 +1,4 @@
+packages/*/package-lock.json
+.nx/*
+node_modules/*
+packages/*/node_modules/*
