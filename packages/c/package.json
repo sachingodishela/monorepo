@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sachingodishela/a": "^1.0.0",
-    "@sachingodishela/b": "^1.0.0"
+    "@sachingodishela/a": "1.0.0",
+    "@sachingodishela/b": "1.0.0"
   }
 }
